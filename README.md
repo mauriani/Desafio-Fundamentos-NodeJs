@@ -21,7 +21,7 @@ Essas foram as rotas criadas:
 
 ### Clonando o projeto
 
-```jsx
+```
  # clonar o repositório
  $ https://github.com/mauriani/Desafio-Conceito-Nodejs.git
 
