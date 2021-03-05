@@ -19,24 +19,27 @@ Essas foram as rotas criadas:
 - [x]  **`GET /transactions`**: Essa rota deve retornar uma listagem com todas as transações que você cadastrou até agora, junto com o valor de soma de entradas, retiradas e total de crédito.
 
 
-Instalação
-1. Requisitos para instalação
-NodeJS na versão 8 ou superior;
-yarn ou npm;
-curl, postman ou insomnia.
-2. Download
-Clonar a pasta do projeto para sua máquina local e instalar as dependências.
+### Clonando o projeto
 
+```jsx
  # clonar o repositório
- $ git clone https://github.com/mauriani/Desafio-Fundamentos-NodeJs.git
+ $ https://github.com/mauriani/Desafio-Conceito-Nodejs.git
 
- # acessar a pasta backend
- $ cd desafio5-transacoes-finaceiras-backend
+ # acessar a pasta do projeto
+ $ cd Desafio-Conceito-Nodejs
 
  # instalar as dependências do projeto
- $ yarn
-3. Iniciando o servidor
-$ yarn dev:server
+ $ yarn or npm install
+```
+
+### Start na aplicação
+Depois disso basta rodar:
+
+```jsx
+yarn dev:server
+```
+
+
 
 
 
